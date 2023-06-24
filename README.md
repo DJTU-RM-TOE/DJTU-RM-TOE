@@ -4,4 +4,4 @@
 * ### [关于stm32](learning_git/Learn_page.md "TOE_Learning_page")
 * ### [关于ROS](learning_git/Learn_ros.md "TOE_Learning_page")
 ## **TOE战队github仓库导航**
-* ### [robomaster雷达站](https://github.com/DJTU-RM-TOE/TOE-rm-radar "TOE_Learning_page")  
+* ### [robomaster雷达站](https://github.com/DJTU-RM-TOE/TOE-rm-radar "radar_page")  
